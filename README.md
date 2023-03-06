@@ -31,6 +31,10 @@ __DesignCorruption_iter*__
 Additionally, the testing of the method for the CARLA dataset is in the notebook
 **CARLA_dataset.ipynb**
 
+## Utils
+
+The calculation of the critical values is done through the function in the module **CriticalValues.py**, where a table of precalculated Anderson-Darling Values for different confidance levels and number of trials (for Bonferroni correction) are tabuleted (in **AD_crit.csv**) as the calcualtation of these values is time consuming.
+
 
 
 # SafeML
