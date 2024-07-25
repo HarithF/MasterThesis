@@ -43,4 +43,5 @@ The original public SafeML library can be found in the repo
 https://github.com/ISorokos/SafeML
 
 Repo for the first published paper in IMBSA 2022 https://git.iese.fraunhofer.de/safeml_thresholds
+
 Repo for the second paper published in FICC 2024 https://git.iese.fraunhofer.de/scue/uncertaintyestimator/
